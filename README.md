@@ -7,5 +7,3 @@
 🌟 *Node.js*
 
 🌟 *Express*
-
-*24 horas totais*
